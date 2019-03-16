@@ -10,8 +10,6 @@ public class Main {
 		//
 		Cliente cliente = new Cliente();
 		System.out.println(cliente.address);
-		
 	}
-	
 
 }
